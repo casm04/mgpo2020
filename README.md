@@ -1,5 +1,4 @@
 # Modelos Gráficos Probabilísticos - Otoño 2020
-___
 
 En este repositorio se encuentra el material para el curso de modelos gráficos probabilísticos en el periodo de otoño del 2020.
 
@@ -20,7 +19,8 @@ Este curso está dividido en tres módulos.
       - Flujo de influencia probabilística.
   - Independencia e independencia condicional.
   - Independencia en redes Bayesianas.
-  - Tarea 2. 
+  - Tarea 2.
+  
 3. Modelos de plantilla y distribuciones condicionales estructuradas.
   - Quiz clase 2.
   - Modelos temporales: redes Bayesianas dinámicas y modelos de Markov ocultos.
