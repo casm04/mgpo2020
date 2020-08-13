@@ -101,13 +101,5 @@ Este curso está dividido en tres módulos.
   - Optimizando sobre estructuras:
       - Aprendizaje de estructuras de árbol.
       - Aprendizaje de estructuras genéricas: heurísicas.
-  - Tarea 7.
-   
-15. Aprendizaje con datos incompletos.
-  - Quiz clase 14.
-  - Maximización del valor esperado.
-      - Análisis.
-      - Comentarios prácticos.
-  - Variables latentes.
 
-16. Evaluación módulo 3.
+15. Evaluación módulo 3.
